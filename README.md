@@ -7,7 +7,7 @@ Files:
 
 - CodeBook.md: the code book with the description of the variables, the dat and the preparation to clean up the data
 
-- run_analysis.R: manipulates data and subsequently performs the requested steps:
+- run_analysis.R manipulates data and subsequently performs the requested steps:
 
 - Merges the training and the test sets to create one data set.
 - Extracts values on the mean and standard deviation for each measurement.
